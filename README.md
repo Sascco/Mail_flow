@@ -263,5 +263,6 @@ python send_emails.py
 ✓ You're running the script from the correct directory
 ## Authors
 
-- [@octokatherine](https://www.github.com/octokatherine)
+- [@Sascco - https://github.com/Sascco)
+  
 
